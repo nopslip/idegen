@@ -100,6 +100,10 @@ If you're interested in this check out Season 1, Episode 3 of Truth and Power on
 * [IPFS use outside blockchain and NFTs?](https://www.reddit.com/r/cuboulder/comments/wuzp5i/how_to_get_your_textbook_for_free_definitely/)
 * [3AC Bought DickButt NFT?](https://www.reddit.com/r/CryptoCurrency/comments/vy84rw/3ac_borrowed_millions_from_voyagerblockfi_user/)
 
+Show image courtesy of [3AC on OpenSea](https://opensea.io/assets/ethereum/0x42069abfe407c60cf4ae4112bedead391dba1cdb/1462)
+
+Updating to test fix for strange github push/commit author issue. 
+
 :::warning
 We do our best to report accurately on the topics we discuss, but we're not always going to get everything right. Please comment here or reach out to us @idegenfm with corrections or comments!
 :::
