@@ -1,5 +1,8 @@
 # I, Degen - E12: Ethereum Fights to Remain Censorship Resistant - 8/24/2022
 
+[![hackmd-github-sync-badge](https://hackmd.io/mei3icZUS06MRkAwsoxaFg/badge)](https://hackmd.io/mei3icZUS06MRkAwsoxaFg)
+
+
 ::: info
 Listen at: idegen.fm 
 :::
