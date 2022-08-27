@@ -8,6 +8,10 @@ Listen at: idegen.fm
 Contact us: [@idegenfm](https://twitter.com/idegenfm)
 :::
 
+:::warning
+Collect an I, Degen Episode 12 Token of Appreciation by taking the quiz on [Zeevo!](https://app.zeevo.co/dashboard/sequences/6ef66c9e-bf63-4ebc-bb9a-8c9d83da8f0d)  
+:::
+
 #### Intro
 Welcome to I, Degen - Each week, we track down and explore the most exciting crypto stories. Hacks, mysteries, exploits, and anything that feeds our crypto curiosity. We dig in, cutting through the misinformation and hype in search of a signal in the noise. 
 
